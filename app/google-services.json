@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859817615827",
+    "project_id": "fit2081-lab-8",
+    "storage_bucket": "fit2081-lab-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859817615827:android:03a455fa11ea80a75e0f26",
+        "android_client_info": {
+          "package_name": "com.example.movielibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859817615827-8igvab5qtaje0d1rvj98sp40fgdeib0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjITAWx8LzZUvNZg7dsAK8Ndm34FnQ1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859817615827-8igvab5qtaje0d1rvj98sp40fgdeib0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
